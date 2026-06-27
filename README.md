@@ -48,3 +48,4 @@ After completing this exercise, students should be able to:
 
 
 Repository Type: Practice Repository
+This is a practice change for the Git assignment.
